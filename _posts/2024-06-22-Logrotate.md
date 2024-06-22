@@ -1,5 +1,5 @@
 ---
-title: "Linux PrivEsc with Logrotate Utility"
+title: "Linux PrivEsc with Logrotate"
 data: 2024-06-03 00:00:00 +0800
 categories: [LINUX PRIVILEGE ESCALATION]
 tags: [linux , privilege escalation]
