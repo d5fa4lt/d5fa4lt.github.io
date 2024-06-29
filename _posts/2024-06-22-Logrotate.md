@@ -48,7 +48,7 @@ but there is some requirements
 
 ### exploitation
 
-first i will check it version of `logrotate`
+first i will check the version of `logrotate`
 
 ```shell
 logrotate --version
